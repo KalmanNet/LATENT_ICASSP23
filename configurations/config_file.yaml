@@ -1,0 +1,9 @@
+############ Hyper Parameters ##################
+lr_kalman : 1e-5
+wd_kalman : 1e-2
+batch_size : 32
+epoches : 400
+########### Noise statistics for EKF #############
+real_r : 4
+real_q : 0.1
+prior_r : 4
